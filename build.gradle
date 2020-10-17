@@ -21,7 +21,6 @@ subprojects {
   artifacts.archives packageSources
   repositories {
     mavenCentral()
-    maven { url "https://jitpack.io" }
   }
 
 // == support provided scope
